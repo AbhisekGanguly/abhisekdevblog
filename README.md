@@ -4,8 +4,6 @@ permalink: "/about/"
 layout: page
 ---
 
-## About
-
 A few years ago, while visiting or, rather, rummaging about Wikipedia, the author of this website found, in an obscure nook of one of the articles, the following word, engraved by hand upon the post: —Data.
 
 ![Earliest records of data](https://abhisekganguly.github.io/datascience-portfolio/images/data.jpg)
